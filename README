@@ -1,4 +1,4 @@
-A tetris program that me and my friend Yusheng built for UIUC CS241 Honor section. The whole project is built from scratch. To built: download the project and import in eclipse.
+A tetris program that me and my friend Yusheng built for UIUC CS241 Honor section. The whole project is built from scratch. To build: download the project and import in eclipse.
 
 This game is capable of multiplayer mode. Each player can see the current state of the other player through a tiny window at the top of screen. 
 
