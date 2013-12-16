@@ -1,4 +1,4 @@
-A tetris program that me and my friend Yusheng built for UIUC CS241 Honor section. The whole project is built from scratch.
+A tetris program that me and my friend Yusheng built for UIUC CS241 Honor section. The whole project is built from scratch. To built: download the project and import in eclipse.
 
 This game is capable of multiplayer mode. Each player can see the current state of the other player through a tiny window at the top of screen. 
 
@@ -7,3 +7,5 @@ Seesaw mode: For each row that one player clears, the other player will have a n
 Sabotage mode: For each row that one player clears, the other player will have a randomly chose Tetrimino fall and lock down instantly.
 
 Please see the demo video here: http://youtu.be/1ECNgM3LKKw
+
+Please Note: we have only tested this on Moto A855, API level 8. Please try to use a similar phone to play with it :)
