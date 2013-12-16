@@ -1,0 +1,9 @@
+A tetris program that me and my friend Yusheng built for UIUC CS241 Honor section. The whole project is built from scratch.
+
+This game is capable of multiplayer mode. Each player can see the current state of the other player through a tiny window at the top of screen. 
+
+The game has two modes of competition. 
+Seesaw mode: For each row that one player clears, the other player will have a new row with five randomly chose blocks added up to the bottom. 
+Sabotage mode: For each row that one player clears, the other player will have a randomly chose Tetrimino fall and lock down instantly.
+
+Please see the demo video here: http://youtu.be/1ECNgM3LKKw
